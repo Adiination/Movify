@@ -19,3 +19,7 @@ span{
 span:hover {
   color: red;
 }
+.headerLeft, .headerRight {
+  display: flex;
+  align-items: center;
+}
