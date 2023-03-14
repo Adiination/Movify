@@ -8,7 +8,7 @@ function App() {
       <span><h1>MOVIFY</h1></span>
       <span><p>Home</p> </span>
      <span><p>My list</p> </span>
-     <span> <p>services</p> </span>
+     <span> <p>Services</p> </span>
      </div>
       
      
